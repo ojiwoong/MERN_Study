@@ -1,1 +1,1 @@
-"# MERN_Study (MongoDB, Express, React, Node)"
+# MERN_Study (MongoDB, Express, React, Node)
